@@ -1,0 +1,11 @@
+.search-slider{clear: both;}
+.search-slider.no-result {
+font-size: 15px;
+color: red;
+}
+.bx-viewport {
+height: auto !important;
+}
+ul.bxslider.clearfix {
+margin: 5px;
+}
